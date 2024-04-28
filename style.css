@@ -1,0 +1,22 @@
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing: border-box;
+}
+
+
+
+
+.navbar-brand{
+  margin-top: 60px;
+  margin: none;
+
+
+}
+.heading{
+  font-size: xx-large;
+}
+.head{
+  display: flex
+  ;
+}
